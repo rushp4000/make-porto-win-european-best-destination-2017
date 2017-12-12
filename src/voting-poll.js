@@ -9,9 +9,9 @@ const OPEN_PAGE_TIMEOUT = process.env.OPEN_PAGE_TIMEOUT || 120000
 const EXECUTION_TIMEOUT = process.env.EXECUTION_TIMEOUT || 90000
 const PROXY = process.env.PROXY
 
-const POLLDADDY_POLL_URL = 'http://www.europeanbestdestinations.com/best-of-europe/european-best-destinations-2017/'
-const POLLDADDY_POLL_ID = '9632536'
-const POLLDADDY_POLL_OPTION_ID = '44047129'
+const POLLDADDY_POLL_URL = 'http://www.mlive.com/sports/ann-arbor/index.ssf/2017/12/vote_for_ann_arbor-area_girls.html'
+const POLLDADDY_POLL_ID = '9895299'
+const POLLDADDY_POLL_OPTION_ID = '45326128'
 
 const _ = require('lodash')
 
